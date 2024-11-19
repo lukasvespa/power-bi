@@ -1,8 +1,8 @@
-Eu sei qual turma teve mais advertÊncias?
+Eu sei qual turma teve mais advertências?
 
 Eu sei qual componente teve mais advertências?
 
-Eu sei qual motivo que mais teve advertÊncias? (assiduidade, comportamento ou rendimento)
+Eu sei qual motivo que mais teve advertências? (assiduidade, comportamento ou rendimento)
 
 Eu sei quais alunos mais tiveram advertências?
 
