@@ -1,0 +1,17 @@
+Eu sei quais são os cursos mais procurados?
+
+Eu sei quais são os cursos menos procurados?
+
+Eu sei qual mês do ano tem maior interesse?
+
+Eu sei qual mês do ano tem menor interesse?
+
+Eu sei qual é o período mais procurado? (Manhã/Tarde/Noite)
+
+Eu sei quais dias da semana mais procurados?
+
+Eu sei qual CFP teve mais procura?
+
+Eu sei qual foi o total de procura?
+
+Eu sei qual horário geralmente registram interesse?
