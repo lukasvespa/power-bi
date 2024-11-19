@@ -1,0 +1,13 @@
+Eu sei qual turma teve mais advertÊncias?
+
+Eu sei qual componente teve mais advertências?
+
+Eu sei qual motivo que mais teve advertÊncias? (assiduidade, comportamento ou rendimento)
+
+Eu sei quais alunos mais tiveram advertências?
+
+Eu sei o total de advertências?
+
+É possível visualizar qual mês teve mais advertências?
+
+É possível visualizar qual professor menos faz advertências?
